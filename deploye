@@ -1,0 +1,18 @@
+# MonadNFT Deployment
+
+## Network
+- Monad Testnet
+
+## Contract Address
+- 0x11B65CcDd2a2102dB11e976b64a99b799710F5d7
+
+## Owner Wallet
+- (ton adresse MetaMask)
+
+## Tool
+- Remix
+
+## Status
+- ERC-721 deployed and tested
+- Mint OK
+- tokenURI OK
